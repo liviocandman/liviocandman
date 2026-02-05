@@ -2,11 +2,10 @@
 
 <div align="center">
   <a href="https://github.com/liviocandman">
-    <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=liviocandman&show_icons=true&theme=radical" alt="liviocandman stats" />
+    <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=liviocandman&show_icons=true&theme=radical" height="180" alt="liviocandman stats" />
   </a>
-  
   <a href="https://github.com/liviocandman">
-    <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=liviocandman&theme=radical&layout=compact" alt="liviocandman langs" />
+    <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=liviocandman&theme=radical&layout=compact" height="180" alt="liviocandman langs" />
   </a>
 </div>
 
