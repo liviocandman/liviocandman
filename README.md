@@ -1,5 +1,3 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:0F2027,50:203A43,100:2C5364&section=header"/>
-
 <div align="center">
 
 # 👾 Livio Candman - Full Stack Developer
@@ -28,4 +26,3 @@
   <a href = "mailto:liviocandman@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>  
 </div>
 
-</div> <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:2C5364,50:203A43,100:0F2027&section=footer"/> ```
