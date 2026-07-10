@@ -1,10 +1,8 @@
 <div align="center">
 
-# 👾 Livio Candman - Full Stack Developer
+# 🧑‍💻 Livio Candman - Full Stack Developer
 
-### `dev em construção constante • criador de soluções • curioso por natureza`
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2800&pause=800&color=38BDF8&center=true&vCenter=true&width=650&lines=Transformando+ideias+em+código;Resolvendo+problemas%2C+criando+soluções;Debugando+a+vida%2C+um+commit+por+vez;Sempre+aprendendo+algo+novo" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2800&pause=800&color=38BDF8&center=true&vCenter=true&width=650&lines=Transformando+ideias+em+código;Resolvendo+problemas%2C+criando+soluções;Sempre+aprendendo+algo+novo" />
 
 </div>
 
